@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Broyhan",
+        "number": "L03A",
+        "category": "Historical German Beer",
+        "categorynumber": "L03",
+        "overallimpression": "A pale, lightly sweet, low-alcohol wheat ale with a smooth body and low bitterness. Often displays subtle fruity esters and very low hop character, sometimes with a light tartness. Refreshing and easy-drinking, it was once one of the most popular beers in Northern Germany.",
+        "aroma": "Grainy-sweet malt and wheat character dominate, with low to moderate fruity esters (apple, pear). Low herbal or floral hop aroma may be present. Some versions may have a faint lactic tartness. Clean fermentation is typical, but historic versions may show mild funk or sourness.",
+        "appearance": "Pale straw to light golden in color. Generally clear, though slight haze is acceptable. Moderate to low white head with average retention.",
+        "flavor": "Mild grainy malt sweetness with bready wheat notes. Low fruity esters are typical. Hop flavor and bitterness are very low, allowing the malt and yeast character to shine. Some versions may have a slight tartness or acidity. Smooth and mellow, with a soft finish.",
+        "mouthfeel": "Light-bodied with moderate to high carbonation. Smooth and slightly creamy from the wheat. Very easy drinking with a clean finish. No harshness or astringency.",
+        "comments": "Modern interpretations may differ significantly from the original due to the lack of a recorded recipe. Sometimes brewed with a small lactic or wild yeast contribution. Historically significant style from the 16th century.",
+        "entryinstructions": "-",
+        "currentlydefinedtypes": "-",
+        "ibumin": "5",
+        "ibumax": "10",
+        "ogmin": "1.030",
+        "ogmax": "1.040",
+        "fgmin": "1.006",
+        "fgmax": "1.010",
+        "abvmin": "3.5",
+        "abvmax": "4.5",
+        "srmmin": "2",
+        "srmmax": "4",
+        "strengthclassifications": "-",
+        "history": "Created in 1526 by Cord Broyhan in Hanover, Germany, inspired by the white beers of Hamburg. Broyhan’s version was less sour and more approachable, leading to widespread popularity across Northern Germany and beyond. It remained dominant for over two centuries until lagers replaced most ale styles. Original formulations are lost, but recreations are based on historical accounts.",
+        "characteristicingredients": "A blend of pale barley malt and a large proportion of wheat malt. Top-fermenting ale yeast producing fruity esters. Minimal noble hops for low bitterness. Historic versions may have included wild yeast or mild souring organisms. Water likely soft to moderately hard.",
+        "stylecomparison": "Similar in composition to Berliner Weisse but less sour. Shares fruity and wheat character with Belgian Witbier but is simpler and less spicy. Not as bitter or crisp as a Kölsch. Milder and smoother than Gose.",
+        "commercialexamples": "Hannoversches Brauhaus Broyhan, occasional historic re-creations by craft breweries in Germany and the U.S.",
+        "tags": "historical, wheat-beer, ale, low-bitterness, pale-color, session-strength, top-fermented, smooth, heritage"
+    }
+]
