@@ -58,52 +58,6 @@ This document outlines the convention used to generate compact style codes for b
 
 ---
 
-### Style Group (1 character)
-| Code | Group Name                 |
-|------|----------------------------|
-| L    | Light                      |
-| P    | Pale                       |
-| D    | Dark                       |
-| R    | Roasty                     |
-| W    | Wheat                      |
-| A    | Amber / Brown              |
-| S    | Sour / Tart                |
-| F    | Funky / Farmhouse / Wild   |
-| C    | Crisp / Lager              |
-| H    | Hoppy / IPA-style          |
-| M    | Malty / Sweet              |
-| B    | Bitter / Dry               |
-| T    | Strong / High ABV          |
-| V    | Specialty / Fruit / Spice  |
-| X    | Undefined / Mixed          |
+### Style Group (2 Numbers)
 
----
-
-### Variant (Optional 5th character for IPAs and modern substyles)
-| Suffix | Meaning           | Examples                  |
-|--------|-------------------|---------------------------|
-| W      | West Coast        | SoCal IPA, WCIPA          |
-| E      | East Coast        | NEIPA (non-hazy)          |
-| C      | SoCal West Coast  | SoCal IPA                 |
-| H      | Hazy              | Hazy IPA, NEIPA           |
-| D      | Dank              | Dank West Coast IPA       |
-| B      | Black IPA         | Cascadian Dark Ale        |
-| R      | Red IPA           | American Red IPA          |
-| T      | Triple IPA        | High ABV IPAs             |
-| S      | Session IPA       | Lower ABV hoppy beers     |
-
----
-
-## Examples
-
-| Style Name         | Code   | Notes                                 |
-|--------------------|--------|---------------------------------------|
-| American IPA       | AUSH   | Standard IPA, Ale/US/Hoppy            |
-| SoCal IPA          | AUSHW  | West Coast IPA                        |
-| NEIPA              | AUSHE  | East Coast Hazy IPA                   |
-| Red IPA            | AUSHR  | Amber malt body with IPA hopping      |
-| Belgian Dubbel     | ABED   | Ale/Belgium/Dark                      |
-| German Pilsner     | LDEC   | Lager/Germany/Crisp                   |
-| Brett Saison       | BEBF   | Brett/Belgium/Farmhouse               |
-
----
+Randomly assigned
